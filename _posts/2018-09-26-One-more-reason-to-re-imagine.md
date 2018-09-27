@@ -8,6 +8,8 @@ categories:
   - AI
   - Artificial Intelligence
 image: assets/images/watson_industry_packs.jepg
+featured: true
+hidden: true
 ---
 ![watson_industry_packs.jpeg]({{site.baseurl}}/assets/images/watson_industry_packs.jpeg)
 
