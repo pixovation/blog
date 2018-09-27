@@ -1,13 +1,13 @@
 # Site
 name: "The Writer's Block"
-description: "Jekyll Template for Blogging"
+description: "Pixovation"
 meta_description: "Pixovation, blog, vcrunch."
 logo: 'assets/images/favicon-image.png'
 favicon: 'assets/images/favicon-image.png'
 baseurl: /blog
 google_analytics: 'UA-4993516-3'
 disqus: 'vaneetarora'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 # Authors
 authors:
