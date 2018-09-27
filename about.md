@@ -2,11 +2,10 @@
 layout: page
 title: Disclaimer
 comments: true
-published: true
+published: false
 ---
 
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/2.png){: .shadow}
+![Disclaimer]({{site.baseurl}}/assets/images/2.jpg)
 
 The ideas and thoughts expressed in vCrunch are by and large vital but they come un-pressed, spontaneous, un-proofed, un-revised and corrected only if an avid reader like YOU points the mistakes that grossly alter the intent.
 
