@@ -6,6 +6,7 @@ published: true
 image: assets/images/2.jpg
 ---
 
+![Disclaimer]({{site.baseurl}}/assets/images/2.jpg)
 The ideas and thoughts expressed in this blog are by and large vital but they come un-pressed, spontaneous, un-proofed, un-revised and corrected only if an avid reader like YOU points the mistakes that grossly alter the intent.
 
 The opinions expressed in this weblog do not reflect the thoughts, intentions, plans or strategies of my clients or employer. It is solely our opinion that comes with no warranties, and gives no rights.
