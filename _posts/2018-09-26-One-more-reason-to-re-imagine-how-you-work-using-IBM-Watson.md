@@ -10,8 +10,6 @@ image: assets/images/watson_industry_packs.jepg
 featured: true
 hidden: true
 ---
-![watson_industry_packs.jpeg]({{site.baseurl}}/assets/images/watson_industry_packs.jpeg)
-
 In my experience discussing and delivering IBM Watson cognitive computing services to my clients, the single most common question I almost always receive from CXOs is - How long will it take for us to train Watson to complement the job my people are doing? Well the reality is, it is a sizeable effort in any implementation that goes into training Watson with customer specific data. 
 
 With IBM releasing prepackaged and pretrained Watson AI Tools, it definitely will reduce the training lead times. Thereby helping clients reduce the time to market for several of their Watson based initiatives. 
