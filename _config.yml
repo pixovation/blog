@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
+name: "The Writer's Block"
 description: "Jekyll Template for Blogging"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+meta_description: "Pixovation, blog, vcrunch."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
@@ -11,22 +11,24 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Vaneet:
+    name: Vaneet Arora
+    display_name: Vaneet
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
+    email: varora@gmail.com
+    web: https://www.pixovation.com
+    twitter: https://twitter.com/varora
+    LinkedIn: https://www.linkedin.com/in/vaneetarora
+    description: "Human, proud husband, learner by nature and management consultant by profession. Putting into action #Digital #Cognitive #IoT #Photography. Opinions expressed are my own."
+  varora:
+    name: varora
+    display_name: varora
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: varora@gmail.com
+    web: https://www.pixovation.com
+    twitter: https://twitter.com/varora
+    LinkedIn: https://www.linkedin.com/in/vaneetarora
+    description: "Human, proud husband, learner by nature and management consultant by profession. Putting into action #Digital #Cognitive #IoT #Photography. Opinions expressed are my own."
 
 # Plugins
 plugins: 
