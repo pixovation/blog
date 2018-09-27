@@ -1,16 +1,24 @@
 ---
 layout: post
-title:  "About Bundler"
-author: sal
-categories: [ Jekyll ]
+title: Disclaimer
+author: Vaneet Arora
+categories:
+  - Jekyll
 image: assets/images/2.jpg
+published: false
 ---
-`gem install bundler` installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:
+The ideas and thoughts expressed in this blog are by and large vital but they come un-pressed, spontaneous, un-proofed, un-revised and corrected only if an avid reader like YOU points the mistakes that grossly alter the intent.
 
-`bundler` is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.
+The opinions expressed in this weblog do not reflect the thoughts, intentions, plans or strategies of my clients or employer. It is solely our opinion that comes with no warranties, and gives no rights.
 
-The `Gemfile` and `Gemfile.lock` files inform `Bundler` about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit `bundle exec` and just `run jekyll serve`.
+Feel free to challenge any post, disagree with me, or tell me that I am completely nuts in the comments section of each blog entry but I reserve the right to delete any comment for any reason whatsoever (abusive, disrespectful, impolite or anonymous comments) – so keep it polite, please.
 
-When you run `bundle exec jekyll serve`, `Bundler` uses the gems and versions as specified in `Gemfile.lock` to ensure your Jekyll site builds with no compatibility or dependency conflicts.
+If you have any copyright related issues with any of the contents in this blog please drop a comment. Your concerns will be addressed at the earliest and with due respect.
 
-For more information about how to use `Bundler` in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.
+Names, Logos and other proprietary information quoted in this blog are property of respective companies and are mentioned here for reference purpose only.
+
+In summary, if I err or write something stupid, read it with open mind, bring it to my notice and just chill. I shall press and publish with required changes.
+
+
+
+Vaneet Arora!
