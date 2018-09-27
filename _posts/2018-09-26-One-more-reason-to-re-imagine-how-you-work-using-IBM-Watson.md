@@ -6,9 +6,11 @@ categories:
   - Watson
   - IBM
   - AI
-image: assets/images/watson_industry_packs.jepg
+image: assets/images/watson_industry_packs.jpeg
 featured: true
 hidden: true
+title: We all wait for summer
+description: this is my meta description
 ---
 In my experience discussing and delivering IBM Watson cognitive computing services to my clients, the single most common question I almost always receive from CXOs is - How long will it take for us to train Watson to complement the job my people are doing? Well the reality is, it is a sizeable effort in any implementation that goes into training Watson with customer specific data. 
 
