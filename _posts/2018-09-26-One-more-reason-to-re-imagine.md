@@ -11,6 +11,7 @@ featured: true
 hidden: true
 title: Re-imagine work with IBM Watson
 description: IBM Watson
+comments: true
 ---
 In my experience discussing and delivering IBM Watson cognitive computing services to my clients, the single most common question I almost always receive from CXOs is - How long will it take for us to train Watson to complement the job my people are doing? Well the reality is, it is a sizeable effort in any implementation that goes into training Watson with customer specific data. 
 
